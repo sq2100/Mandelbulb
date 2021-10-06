@@ -23,4 +23,5 @@
 [Taichi] Starting on arch=cuda
 ```
 依赖：GGUI
+
 直接运行： python3 mandelbulb.py
