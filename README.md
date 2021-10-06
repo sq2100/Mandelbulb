@@ -3,7 +3,7 @@
 ## 背景简介
 本作业参考了 Julia set 例程，建立了三维分形曼德尔球，并使用了新功能 GGUI 进行可视化。
 
-## 成功效果展示(正在施工中，目前是二维版本)
+## 成功效果展示
 
 ![fractal demo](./data/mandelbulb.gif)
 ## 整体结构（Optional）
